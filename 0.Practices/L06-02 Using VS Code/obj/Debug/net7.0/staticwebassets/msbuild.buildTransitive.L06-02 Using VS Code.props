@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/L06-02 Using VS Code.props" />
+</Project>

@@ -1,0 +1,31 @@
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/appsettings.Development.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/appsettings.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code.staticwebassets.runtime.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code.deps.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code.runtimeconfig.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code.dll
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/bin/Debug/net7.0/L06-02 Using VS Code.pdb
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.csproj.AssemblyReference.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.AssemblyInfoInputs.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.AssemblyInfo.cs
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.csproj.CoreCompileInputs.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.MvcApplicationPartsAssemblyInfo.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.RazorAssemblyInfo.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.RazorAssemblyInfo.cs
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets/msbuild.L06-02 Using VS Code.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets/msbuild.build.L06-02 Using VS Code.props
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.L06-02 Using VS Code.props
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.L06-02 Using VS Code.props
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets.build.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/staticwebassets.development.json
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/scopedcss/bundle/L06-02 Using VS Code.styles.css
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/scopedcss/projectbundle/L06-02 Using VS Code.bundle.scp.css
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.dll
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/refint/L06-02 Using VS Code.dll
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.pdb
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/L06-02 Using VS Code.genruntimeconfig.cache
+/Users/ngocson/Desktop/docker/freeCodeCamp/repo/0.Practices/L06-02 Using VS Code/obj/Debug/net7.0/ref/L06-02 Using VS Code.dll
